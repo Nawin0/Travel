@@ -17,6 +17,18 @@ img {
   height: 200px;
 }
 
+#id {
+  background-color: #a3d1cb;
+  color: #298797;
+
+}
+
+.class {
+  background-color: #5cb3a7;
+  color: #bd3a3a;
+
+}
+
 body {
     
     color: #7a7474;
