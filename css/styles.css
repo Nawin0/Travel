@@ -627,6 +627,12 @@ progress {
   color: #6c757d;
 }
 
+.centar{
+max-width: 100%;
+width: 100cm;
+}
+
+
 .container,
 .container-fluid,
 .container-xxl,
@@ -11442,7 +11448,7 @@ html {
   font-size: 1.25rem;
 }
 .masthead .masthead-avatar {
-  width: 15rem;
+  width: 5cm;
 }
 
 @media (min-width: 992px) {
