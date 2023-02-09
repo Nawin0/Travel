@@ -10,6 +10,13 @@
   * li {
     list-style: none;
   }
+
+
+  .new{
+    margin: 16px ;
+    
+  }
+
   .container {
     min-height: 100vh;
     padding-bottom: 50px;
@@ -590,7 +597,7 @@ svg {
   }
   @media (min-width: 992px) {
     .portfolio-modal .portfolio-modal-title {
-      font-size: 3rem;
+      font-size: 2rem;
       line-height: 2.5rem;
     }
   }
