@@ -12,10 +12,7 @@
   }
 
 
-  .new{
-    margin: 16px ;
-    
-  }
+
 
   .container {
     min-height: 100vh;
@@ -209,7 +206,8 @@ svg {
   }
 
   .mb-5 {
-    margin-bottom: 3rem !important;
+    margin-bottom: 1.5rem !important;
+    text-align: start;
   }
 
   .text-uppercase {
@@ -231,7 +229,6 @@ svg {
   }
 
   .row {
-    --bs-gutter-x: 1.5rem;
     --bs-gutter-y: 0;
     display: flex;
     flex-wrap: wrap;
@@ -241,7 +238,7 @@ svg {
   }
   .row > * {
     flex-shrink: 0;
-    width: 100%;
+    width: 60%;
     max-width: 100%;
     padding-right: calc(var(--bs-gutter-x) * 0.5);
     padding-left: calc(var(--bs-gutter-x) * 0.5);
@@ -275,12 +272,6 @@ svg {
     display: flex !important;
   }
   
-  .justify-content-center {
-    justify-content: center !important;
-  }
-
-
-
   .modal {
     position: fixed;
     top: 0;
